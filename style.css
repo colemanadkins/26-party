@@ -1,9 +1,13 @@
 * {
     text-align: center;
 }
-body {
+/* body {
     background-image: url(cba5e78edfc852b9fae5a8c976586d26.jpg);
-}
+} */
+ body{
+background-color: yellow;
+ }
+
 h1 {
     color: white;
     font-size: 36pt;
