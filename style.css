@@ -1,9 +1,9 @@
 * {
     text-align: center;
 }
-/* body {
-    background-image: url(cba5e78edfc852b9fae5a8c976586d26.jpg);
-} */
+body {
+    background-image: url(color_skulls.jpg);
+}
  body{
 background-color: grey;
  }
@@ -20,11 +20,14 @@ h1 {
 
 }
 h2 {
-    color: cyan;
+    color: rgb(5, 176, 176);
     font-family: "Orbitron", sans-serif;
     font-weight: bold;
     margin-top:1em;
     margin-bottom:1em;
+    -webkit-text-stroke: 1px white;
+    text-stroke: 1px white;
+
 }
 h3 {
     color: rgb(244, 4, 160);
@@ -63,5 +66,7 @@ p{
     font-family: "Orbitron", sans-serif;
     font-weight: bold;
     color:black;
+    -webkit-text-stroke: 1px white;
+    text-stroke: 1px white;
 }
 
