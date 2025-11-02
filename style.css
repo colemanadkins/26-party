@@ -20,7 +20,7 @@ h1 {
 
 }
 h2 {
-    font-size:36pt;
+    font-size:30pt;
     color: cyan;
     font-family: "Frijole", system-ui;
     font-weight: normal;
@@ -31,15 +31,15 @@ h2 {
 
 }
 h3 {
-    font-size:36pt;
-    color: rgb(244, 4, 160);
+    font-size:24pt;
+    color: white;
     font-family: "Eater", serif;
     font-weight: normal;
     margin-top:1em;
     margin-bottom:1em;
     /* -webkit-text-stroke: 1px black;
     text-stroke: 1px black; */
-    text-shadow: 3px 1px 1px white;
+    text-shadow: 3px 1px 1px rgb(244, 4, 160);
 }
 .pic1{
     width:70%;
