@@ -12,7 +12,7 @@ h1 {
     color: white;
     font-size: 48pt;
     margin-top:1.5em;
-    margin-bottom:0em;
+    margin-bottom:0.5em;
     font-family: "Eater", serif;
     font-weight: normal;
     text-shadow: 5px 5px 5px rgb(244, 4, 160);
@@ -22,7 +22,7 @@ h1 {
 h2 {
     font-size:36pt;
     color: cyan;
-    font-family: "Metal Mania", system-ui;
+    font-family: "Frijole", system-ui;
     font-weight: normal;
     margin-top:1em;
     margin-bottom:1em;
@@ -31,11 +31,15 @@ h2 {
 
 }
 h3 {
+    font-size:36pt;
     color: rgb(244, 4, 160);
     font-family: "Metal Mania", system-ui;
     font-weight: normal;
     margin-top:1em;
     margin-bottom:1em;
+    /* -webkit-text-stroke: 1px black;
+    text-stroke: 1px black; */
+    text-shadow: 3px 1px 1px white;
 }
 .pic1{
     width:70%;
@@ -61,12 +65,36 @@ a{
     filter:blur(0.5px);
     text-decoration: none;
 }
-p{
+.mania{
     font-size:24pt;
     font-family: "Metal Mania", system-ui;
     font-weight: normal;
     color:white;
+    text-shadow: 5px 5px 5px black;
+}
+.rye{
+font-size:24pt;
+    font-family: "Rye", serif;
+    font-weight: normal;
+    color:rgba(212, 212, 29, 0.829);
     -webkit-text-stroke: 1px black;
     text-stroke: 1px black;
+}
+.barriecito{
+font-size:24pt;
+    font-family: "Barriecito", system-ui;
+    font-weight: normal;
+    color:rgba(75, 146, 227, 0.829);
+    -webkit-text-stroke: 1px black;
+    text-stroke: 1px black;
+}
+.flavors{
+font-size:24pt;
+    font-family: "Flavors", cursive;
+    font-weight: normal;
+    color:rgba(194, 84, 21, 0.829);
+    /* -webkit-text-stroke: 0.5px white;
+    text-stroke: 0.5px white; */
+    text-shadow: 3px 1px 1px white;
 }
 
