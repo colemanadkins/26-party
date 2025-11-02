@@ -33,7 +33,7 @@ h2 {
 h3 {
     font-size:36pt;
     color: rgb(244, 4, 160);
-    font-family: "Metal Mania", system-ui;
+    font-family: "Eater", serif;
     font-weight: normal;
     margin-top:1em;
     margin-bottom:1em;
@@ -67,7 +67,7 @@ a{
 }
 .mania{
     font-size:24pt;
-    font-family: "Metal Mania", system-ui;
+    font-family: "Eater", serif;
     font-weight: normal;
     color:white;
     text-shadow: 5px 5px 5px black;
@@ -90,7 +90,7 @@ font-size:24pt;
 }
 .flavors{
 font-size:24pt;
-    font-family: "Flavors", cursive;
+    font-family: "Eater", serif;
     font-weight: normal;
     color:rgba(194, 84, 21, 0.829);
     /* -webkit-text-stroke: 0.5px white;
