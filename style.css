@@ -42,8 +42,7 @@ h3 {
     /* text-shadow: 3px 1px 1px rgb(244, 4, 160); */
 }
 .pic1{
-    width:70%;
-    margin-bottom: 3em;
+    margin: 2em 1em 3em 1em;
 
 }
 .whoscoming {
@@ -91,9 +90,8 @@ font-size:24pt;
     font-family: "Spicy Rice", serif;
     font-weight: normal;
     padding: 0em 1.25em 0em 1.25em;
-    color:white;
-    /* -webkit-text-stroke: 0.5px white;
-    text-stroke: 0.5px white; */
-    text-shadow: 5px 5px 1px rgba(205, 79, 6, 0.829);
+    color:rgb(244, 4, 160);
+    -webkit-text-stroke: 1px black;
+    text-stroke: 1px black;
 }
 
