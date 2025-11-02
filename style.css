@@ -92,9 +92,9 @@ font-size:24pt;
 font-size:24pt;
     font-family: "Eater", serif;
     font-weight: normal;
-    color:rgba(194, 84, 21, 0.829);
+    color:white;
     /* -webkit-text-stroke: 0.5px white;
     text-stroke: 0.5px white; */
-    text-shadow: 3px 1px 1px white;
+    text-shadow: 3px 1px 1px rgba(194, 84, 21, 0.829);
 }
 
